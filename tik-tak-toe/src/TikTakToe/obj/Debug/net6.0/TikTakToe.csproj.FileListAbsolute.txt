@@ -1,0 +1,15 @@
+/home/henrique/acc-10/acc-csharp-010-exercises-tik-tak-toe/src/TikTakToe/bin/Debug/net6.0/TikTakToe
+/home/henrique/acc-10/acc-csharp-010-exercises-tik-tak-toe/src/TikTakToe/bin/Debug/net6.0/TikTakToe.deps.json
+/home/henrique/acc-10/acc-csharp-010-exercises-tik-tak-toe/src/TikTakToe/bin/Debug/net6.0/TikTakToe.runtimeconfig.json
+/home/henrique/acc-10/acc-csharp-010-exercises-tik-tak-toe/src/TikTakToe/bin/Debug/net6.0/TikTakToe.dll
+/home/henrique/acc-10/acc-csharp-010-exercises-tik-tak-toe/src/TikTakToe/bin/Debug/net6.0/TikTakToe.pdb
+/home/henrique/acc-10/acc-csharp-010-exercises-tik-tak-toe/src/TikTakToe/obj/Debug/net6.0/TikTakToe.csproj.AssemblyReference.cache
+/home/henrique/acc-10/acc-csharp-010-exercises-tik-tak-toe/src/TikTakToe/obj/Debug/net6.0/TikTakToe.GeneratedMSBuildEditorConfig.editorconfig
+/home/henrique/acc-10/acc-csharp-010-exercises-tik-tak-toe/src/TikTakToe/obj/Debug/net6.0/TikTakToe.AssemblyInfoInputs.cache
+/home/henrique/acc-10/acc-csharp-010-exercises-tik-tak-toe/src/TikTakToe/obj/Debug/net6.0/TikTakToe.AssemblyInfo.cs
+/home/henrique/acc-10/acc-csharp-010-exercises-tik-tak-toe/src/TikTakToe/obj/Debug/net6.0/TikTakToe.csproj.CoreCompileInputs.cache
+/home/henrique/acc-10/acc-csharp-010-exercises-tik-tak-toe/src/TikTakToe/obj/Debug/net6.0/TikTakToe.dll
+/home/henrique/acc-10/acc-csharp-010-exercises-tik-tak-toe/src/TikTakToe/obj/Debug/net6.0/refint/TikTakToe.dll
+/home/henrique/acc-10/acc-csharp-010-exercises-tik-tak-toe/src/TikTakToe/obj/Debug/net6.0/TikTakToe.pdb
+/home/henrique/acc-10/acc-csharp-010-exercises-tik-tak-toe/src/TikTakToe/obj/Debug/net6.0/TikTakToe.genruntimeconfig.cache
+/home/henrique/acc-10/acc-csharp-010-exercises-tik-tak-toe/src/TikTakToe/obj/Debug/net6.0/ref/TikTakToe.dll
